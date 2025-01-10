@@ -24,7 +24,7 @@ Este projeto é um desafio do Grupo BrasilCard.
 
 ## APK
 
-- Get the [APK](https://drive.google.com/file/d/1ecMZWWIujSahuf9dEOB17Ztmw-dO_b7V/view?usp=sharing)
+- Get the [APK](https://drive.google.com/file/d/1kA44O-R7kE2kt3JcwlQZm0955pXPUvK5/view?usp=sharing)
 
 ## Build
 
