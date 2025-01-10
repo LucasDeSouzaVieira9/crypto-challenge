@@ -28,8 +28,8 @@ Este projeto é um desafio do Grupo BrasilCard.
 
 ## Build
 
-Este projeto utiliza [FVM](https://fvm.app/) para versionamento do Flutter SDK, usa Flutter SDK 3.27.1\
-com Dart SDK 3.6.0\
+Este projeto utiliza [FVM](https://fvm.app/) para versionamento do Flutter SDK, usa Flutter SDK 3.24.5\
+com Dart SDK 3.5.4\
 Para executar de forma fácil em modo Debug, abra o projeto pelo ([VSCode](https://code.visualstudio.com/)) e aperte no botão de Play no menu lateral esquerdo. Logo após na parte superior terá um pequeno Play escrito "Crypto Challenge (Debug)". Selecione o emulador, e aperte o Play para iniciar a construção do APK. Como este projeto foi feito apenas para dispositivos móveis, as demais opções de builds foram excluidas do projeto para deixa-lo mais "limpo" e caso futuramente o produto tome outro rumo, basta reconfigurar para as novas plataformas.
 
 
