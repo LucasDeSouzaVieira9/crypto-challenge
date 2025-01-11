@@ -35,10 +35,12 @@ Para executar de forma fácil em modo Debug, abra o projeto pelo ([VSCode](https
 
 ## Screenshots
 
-![Simulator Screenshot - iPhone 16 Pro Max - 2025-01-10 at 18 08 03](https://github.com/user-attachments/assets/90c52344-f367-438f-927b-53626d3604d1)
-![Simulator Screenshot - iPhone 16 Pro Max - 2025-01-10 at 18 07 07](https://github.com/user-attachments/assets/73d2d1bd-c889-428c-9e1a-5bb65e7aec4e)
-![Simulator Screenshot - iPhone 16 Pro Max - 2025-01-10 at 18 05 43](https://github.com/user-attachments/assets/52b278a5-92ae-4188-9470-e105905115ec)
-![Simulator Screenshot - iPhone 16 Pro Max - 2025-01-10 at 18 05 38](https://github.com/user-attachments/assets/709d4417-d06a-47f7-9a23-8fbb95655f2b)
+## Screenshots
+
+<img src="https://github.com/user-attachments/assets/90c52344-f367-438f-927b-53626d3604d1" alt="Screenshot 1" width="350">
+<img src="https://github.com/user-attachments/assets/73d2d1bd-c889-428c-9e1a-5bb65e7aec4e" alt="Screenshot 2" width="350">
+<img src="https://github.com/user-attachments/assets/52b278a5-92ae-4188-9470-e105905115ec" alt="Screenshot 3" width="350">
+<img src="https://github.com/user-attachments/assets/709d4417-d06a-47f7-9a23-8fbb95655f2b" alt="Screenshot 4" width="350">
 
 
 ## 🚀 Sobre mim
